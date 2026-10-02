@@ -14,20 +14,33 @@ To transition into a Data Analyst role where I can combine my IT infrastructure 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-- Excel
+### 📊 Data Analytics
+- Microsoft Excel
 - SQL
 - Python
 - Pandas
 - Data Cleaning
-- Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Visualization
-- Power BI
+
+### 📈 Business Intelligence
+- Microsoft Power BI
 - DAX
+- Power Query
+- Dashboard Development
+- KPI Analysis
 - Business Analytics
-- Generative AI
+
+### 🤖 Generative AI
+- Generative AI for Data Analytics
 - Prompt Engineering
+- AI-assisted Data Analysis
+
+### ☁️ Cloud
+- Microsoft Azure Fundamentals
+- Azure Data Concepts
 
 ---
 
@@ -61,30 +74,31 @@ Coming soon:
 
 ## 💼 Professional Experience
 
-**Navisite**
+### Accenture
+**IT Infrastructure / Automation**  
+📅 2 Years | Current
 
-IT Infrastructure
-2 Years of Professional Experience
+### Navisite
+**IT Infrastructure / Operations**  
+📅 2 Years
 
-**Accenture**
+**Total Professional Experience: 4 Years**
 
-IT Infrastructure / Automation
-
-2 Years of Professional Experience
-
-Currently expanding my technical skill set toward Data Analytics and Business Intelligence.
-
+Currently transitioning from IT Infrastructure and Automation into Data Analytics, combining professional IT experience with developing expertise in data analysis and business intelligence.
 ---
 
-## 📈 Currently Learning
+## 📚 Current Learning
 
-- Advanced SQL
-- Python for Data Analysis
-- Power BI
-- DAX
-- Business Analytics
-- Generative AI for Data Analytics
-- Azure Fundamentals
+🔄 IBM Data Analyst Professional Certificate  
+🔄 IBM Generative AI for Data Analysts  
+🔄 Advanced SQL & Data Analysis  
+🔄 Python for Data Analytics  
+
+### 🎯 Upcoming Certifications
+
+- Microsoft Power BI Data Analyst (PL-300)
+- Microsoft Azure Fundamentals (AZ-900)
+- Business Analytics Certification
 
 ---
 
