@@ -48,8 +48,6 @@ To transition into a Data Analyst role where I can combine my IT infrastructure 
 
 ## 📊 Data Analytics Projects
 
-🚧 Projects are currently being developed.
-
 Coming soon:
 
 - Sales Performance Analysis
@@ -64,11 +62,15 @@ Coming soon:
 ## 💼 Professional Experience
 
 **Navisite**
+
+IT Infrastructure
+2 Years of Professional Experience
+
 **Accenture**
 
 IT Infrastructure / Automation
 
-4 Years of Professional Experience
+2 Years of Professional Experience
 
 Currently expanding my technical skill set toward Data Analytics and Business Intelligence.
 
@@ -88,7 +90,7 @@ Currently expanding my technical skill set toward Data Analytics and Business In
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Add your LinkedIn profile here]
+- Mail ID:- sagarsisodia09@outlook.com
 - GitHub: [https://github.com/Sagarsisodia09-data](https://github.com/Sagarsisodia09-data)
 
 ---
