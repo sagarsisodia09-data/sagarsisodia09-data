@@ -1,16 +1,96 @@
-## Hi there 👋
+# Hi, I'm Sagar 👋
 
-<!--
-**sagarsisodia09-data/sagarsisodia09-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Excel | SQL | Python | Power BI | Business Analytics | Generative AI
 
-Here are some ideas to get you started:
+I'm an IT professional with 4 years of experience, including 2 years at Navisite and 2 years at Accenture. I am currently working at Accenture and transitioning into Data Analytics, with a focus on SQL, Excel, Python, Power BI, Business Analytics, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building my expertise in data analysis, business analytics, data visualization, and Generative AI through certifications and hands-on projects.
+
+---
+
+## 🎯 Career Goal
+
+To transition into a Data Analyst role where I can combine my IT infrastructure experience with data-driven problem solving and business insights.
+
+---
+
+## 🛠️ Skills
+
+- Excel
+- SQL
+- Python
+- Pandas
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Power BI
+- DAX
+- Business Analytics
+- Generative AI
+- Prompt Engineering
+
+---
+
+## 📚 Certifications
+
+### In Progress
+
+- IBM Data Analyst Professional Certificate
+- IBM Generative AI for Data Analysts
+
+### Planned
+
+- Microsoft Power BI Data Analyst (PL-300)
+- Microsoft Azure Fundamentals (AZ-900)
+- Business Analytics Certification
+
+---
+
+## 📊 Data Analytics Projects
+
+🚧 Projects are currently being developed.
+
+Coming soon:
+
+- Sales Performance Analysis
+- E-commerce SQL Analysis
+- Customer Analytics
+- HR Analytics Dashboard
+- Power BI Business Dashboard
+- Generative AI for Data Analytics
+
+---
+
+## 💼 Professional Experience
+
+**Navisite**
+**Accenture**
+
+IT Infrastructure / Automation
+
+4 Years of Professional Experience
+
+Currently expanding my technical skill set toward Data Analytics and Business Intelligence.
+
+---
+
+## 📈 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- DAX
+- Business Analytics
+- Generative AI for Data Analytics
+- Azure Fundamentals
+
+---
+
+## 🔗 Connect With Me
+
+- LinkedIn: [Add your LinkedIn profile here]
+- GitHub: [https://github.com/Sagarsisodia09-data](https://github.com/Sagarsisodia09-data)
+
+---
+
+⭐ Thanks for visiting my profile!
